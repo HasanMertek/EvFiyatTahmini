@@ -1,4 +1,4 @@
-# Makina Öğrenmesi ile Ev Fiyat Tahmini Uygulaması
+# Makine Öğrenmesi ile Ev Fiyat Tahmini Uygulaması
 
 ## Kurulum
 
@@ -22,7 +22,7 @@ $ pip install -r requirements.txt
 (env)$ python manage.py runserver
 ```
 
-## Makina Öğrenmesini Konsol Ortamında Çalıştırma
+## Makine Öğrenmesini Konsol Ortamında Çalıştırma
 
 ```sh
 (env)$ cd fiyatTahmin
